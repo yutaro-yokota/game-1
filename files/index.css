@@ -1,9 +1,5 @@
 #gamecanvas {
   position: absolute;
-  top: 20px;
-  left: 20px;
-  z-index: 1;
-  width: 480px;
-  height: 480px;
-  background-color: #000;
+  top: 100px;
+  left: 100px;
 } 
